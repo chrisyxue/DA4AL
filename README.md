@@ -39,7 +39,7 @@ Params Choices
 --model: 'resnet18','resnet34','resnet50','vgg16','alexnet','mobilenet','resnet18_pretrain','resnet34_pretrain','resnet50_pretrain','resnet18_pretrain_ft','resnet34_pretrain_ft','resnet50_pretrain_ft'
 ```
 ## Our Framework
-Pretrained weights for MoCo-V3 and DINO can be downloaded [here](), and change `WEIGHT_PATH_BASE` in file `arguments.py` as follows.
+Pretrained weights for MoCo-V3 and DINO can be downloaded [here](https://drive.google.com/drive/folders/1x4PvvR38nEgrJR494KYQ7hyRB0FrQ8hq?usp=sharing), and change `WEIGHT_PATH_BASE` in file `arguments.py` as follows.
 ```
 WEIGHT_PATH_BASE = {
   'MoCo': <Your Own Path>,
